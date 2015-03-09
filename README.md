@@ -1,4 +1,4 @@
 # acto
-This is my first Repository for the USCO
+This is my first Repository for the USACO
 :coffee:
 first-Repository
